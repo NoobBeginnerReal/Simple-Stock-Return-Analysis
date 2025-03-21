@@ -1,4 +1,8 @@
-# Simple-Stock-Return-Analysis
+
+![premium_photo-1681487769650-a0c3fbaed85a](https://github.com/user-attachments/assets/838625fb-ee0f-4a87-8be7-9b4762d109bd)
+
+
+# Stock-Return-Analysis
 
 ## VIC Stock Return Analysis - March 19
 
